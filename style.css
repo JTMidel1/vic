@@ -6,7 +6,6 @@
   box-sizing: border-box;
   text-decoration: none;
   scroll-behavior: smooth;
-  background-image: url("C:\Users\USER\Documents\Vicprofile\victor\bck.jpg");
 }
 
 /* Custom Scroll Bar CSS */
@@ -460,7 +459,7 @@ h{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 p{
-  font-size: 35px;
+  font-size: 20px;
   color: black;
   text-align: justify;
   font-stretch: semi-expanded;
